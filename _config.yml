@@ -23,5 +23,3 @@ version:             1.0.0
 
 
 gems: [jekyll-paginate]
-
-encoding: UTF-8
